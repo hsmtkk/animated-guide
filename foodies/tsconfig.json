@@ -32,7 +32,8 @@
     "**/*.ts",
     "**/*.tsx",
     ".next/types/**/*.ts",
-    "app/meals/layout.tsx.bak"
+    "app/meals/layout.tsx.bak",
+    "app/meals/[slug]/page.js"
   ],
   "exclude": [
     "node_modules"
